@@ -1,0 +1,6 @@
+framework module Pods_IMDBsearchTests {
+  umbrella header "Pods-IMDBsearchTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

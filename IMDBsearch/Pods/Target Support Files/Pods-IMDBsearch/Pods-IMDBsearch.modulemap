@@ -1,0 +1,6 @@
+framework module Pods_IMDBsearch {
+  umbrella header "Pods-IMDBsearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
